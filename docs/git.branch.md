@@ -1,5 +1,7 @@
 # GIT Workflow
 
+jeu. 03 févr. 2022 21:30:05 CET
+
 Le workflow a pour vocation de décrire comment je fais évoluer mon 
 projet avec les repo git. 
 Ici, la question est de savoir comment j'utilise les différents répo, 
