@@ -1,4 +1,23 @@
+<<<<<<< HEAD
 # Workflow
+=======
+# GIT Workflow
+
+jeu. 03 févr. 2022 21:30:05 CET
+
+Le workflow a pour vocation de décrire comment je fais évoluer mon 
+projet avec les repo git. 
+Ici, la question est de savoir comment j'utilise les différents répo, 
+  celui de git, 
+  celui de mon _worktree_ 
+  et celui de partage local si je souhaite développer des features
+  sans toucher directement à mon _worktree_ principal. 
+
+L'autre question découle de ce dernier point : comment j'utilise les 
+branches et  comment je sépare mes commits par feature en particulier 
+quand je travaille sur plusieurs features en même temps. On va le voir, 
+      est-ce que je fais une branche nouvelle par feature ? 
+>>>>>>> master
 
 ## idée de maneuvre
 
